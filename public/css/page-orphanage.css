@@ -1,6 +1,7 @@
 #page-orphanage {
     display: flex;
     min-width: 100vh;
+    margin: auto;
 }
 
 main {
