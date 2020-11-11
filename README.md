@@ -7,6 +7,7 @@
  <a href="#status">Status</a> •
  <a href="#tecnologias">Tecnologias</a> •  
  <a href="#license">License</a> •
+ <a href="#layout">Layout</a> •
  
 
 </p>
@@ -24,7 +25,7 @@
   <li>Express</li>
 </ul>
 
-<h3>Demonstração da aplicação:</h3>
+<h3>#Layout:</h3>
 
 <img   src="https://github.com/BrunoArrais/nlw3/blob/main/img/20201109_194320.gif" alt="aplicação">
 
