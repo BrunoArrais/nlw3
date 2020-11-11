@@ -6,10 +6,9 @@
 <p align="center">
  <a href="#status">Status</a> •
  <a href="#objetivo">Objetivo</a> •
-  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#license">License</a> •
- <a href="#layout">Layout</a>
- 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#layout">Layout</a>•
+ <a href="#license">License</a> 
 
 </p>
 
@@ -21,7 +20,7 @@ A finalidade do projeto é o de cadastro de casas de apoio as crianças, sendo p
 <h3>#Tecnologias:</h3>
 <ul>
   <li>Handlebars</li>
- <li> Javascrip</li>
+  <li> Javascrip</li>
   <li>CSS</li>
   <li>Sqlite</li>
   <li>Nodemon</li>
