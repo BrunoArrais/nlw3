@@ -1,7 +1,7 @@
 <h1 align= "center">
 <img   src="https://github.com/BrunoArrais/nlw3/blob/main/img/banner.jpg" alt="IconHappy">
 
-<h2 align="center"> Happy - Leve felicidade para o mundo</h2>
+<h2 align="center">Leve felicidade para o mundo</h2>
 
 <p align="center">
  <a href="#status">Status</a> •
