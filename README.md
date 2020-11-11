@@ -5,15 +5,18 @@
 
 <p align="center">
  <a href="#status">Status</a> •
- <a href="#tecnologias">Tecnologias</a> •  
+ <a href="#objetivo">Objetivo</a> •
+  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#license">License</a> •
- <a href="#layout">Layout</a> •
+ <a href="#layout">Layout</a>
  
 
 </p>
 
-<h3>#Status:</h3>
-<h3>:heavy_check_mark: Finalizado</h3>
+<h3>#Status:  :heavy_check_mark: Finalizado</h3>
+
+<h3>#Objetivo</h3>
+A finalidade do projeto é o de cadastro de casas de apoio as crianças, sendo possivel pesquisar qual localidade de cada uma cadastrada verificando dia, horario e telefone de contato para ser feito as visitas.
 
 <h3>#Tecnologias:</h3>
 <ul>
